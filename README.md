@@ -1,5 +1,5 @@
   # ОБЩИЙ САЛАМ! 👋 #
-  ![](content/naruto.gif) 
+  ![](content/neon.gif) 
   
   
   ## My contacts
