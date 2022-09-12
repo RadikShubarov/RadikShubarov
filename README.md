@@ -1,4 +1,4 @@
-  # ОБЩИЙ САЛАМ! 👋 #
+  # Greetings! #
   ![](content/neon.gif) 
   
   
